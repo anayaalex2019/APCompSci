@@ -1,26 +1,26 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63195:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Alex/IdeaProjects/my Electionededawdfsegdbhgfwoijqesvroijp/out/production/my Electionededawdfsegdbhgfwoijqesvroijp" Main
-Votes for Mordy Golding: 70
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63257:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Alex/IdeaProjects/my Electionededawdfsegdbhgfwoijqesvroijp/out/production/my Electionededawdfsegdbhgfwoijqesvroijp" Main
+Votes for Mordy Golding: 72
 Votes for Shira Gotshalk: 61
-Votes for Stephanie Evans: 54
-Votes for Ray Villalobos: 57
+Votes for Stephanie Evans: 57
+Votes for Ray Villalobos: 60
 President: Mordy Golding
 
-Votes for Dona Sarkar: 66
-Votes for Tyler Ahn: 64
-Votes for Joe Camp: 57
-Votes for Brandon LeBlanc: 55
+Votes for Dona Sarkar: 68
+Votes for Tyler Ahn: 67
+Votes for Joe Camp: 59
+Votes for Brandon LeBlanc: 56
 Vice President: Dona Sarkar
 
-Votes for Jason Howard: 66
-Votes for Nikki Rubino: 64
-Votes for Peggy Fisher: 53
-Votes for Neil Edde: 59
-Secretary: Jason Howard
+Votes for Jason Howard: 67
+Votes for Nikki Rubino: 68
+Votes for Peggy Fisher: 54
+Votes for Neil Edde: 61
+Secretary: Nikki Rubino
 
-Votes for David Gassnar: 60
-Votes for Sharon Bennett: 50
-Votes for Walt Ritscher: 67
-Votes for Heather Hurley: 65
+Votes for David Gassnar: 62
+Votes for Sharon Bennett: 51
+Votes for Walt Ritscher: 70
+Votes for Heather Hurley: 67
 Treasurer: Walt Ritscher
 
 
