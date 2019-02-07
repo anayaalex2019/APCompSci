@@ -1,0 +1,9 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55725:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Alex/IdeaProjects/Assignment 15 numbered/out/production/Assignment 15 numbered" Main
+0:(Binary)   (Octal)   (Hexadecimal) 
+1:(Binary)1   (Octal)1   (Hexadecimal) 1
+63:(Binary)111111   (Octal)77   (Hexadecimal) 3F
+127:(Binary)1111111   (Octal)177   (Hexadecimal) 7F
+255:(Binary)11111111   (Octal)377   (Hexadecimal) FF
+256:(Binary)000000001   (Octal)400   (Hexadecimal) 100
+
+Process finished with exit code 0
